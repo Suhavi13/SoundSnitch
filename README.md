@@ -1,10 +1,8 @@
-# SoundSnitch 🎧 "Your music taste, snitched on."
+# SoundSnitch 🎧 "Your music taste snitched on."
 
 **Live:** https://sound-snitch.vercel.app
 
-Enter up to 10 artists or songs you love. SoundSnitch pulls their genre data from the Spotify Web API, scores how niche your taste is, and has an LLM write a witty "music personality" from that data.
-
-> 📸 *Add a screenshot or GIF of the input page and a results page here.*
+Enter up to 10 artists or songs you love. SoundSnitch pulls their genre data from the Spotify Web API, scores how niche your taste is and has an LLM write a witty "music personality" from that data.
 
 ## How it works
 ```mermaid
